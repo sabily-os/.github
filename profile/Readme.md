@@ -11,8 +11,6 @@
 </div>
 <br>
 
-<img title="" src="logo.jpg" alt="./logo.jpg" data-align="center" width="181">
-<br><br>
 
 Assalamu Alaikum Wa Rahmatullah :wave: . 
 Welcome to the project of Crescent OS :kissing_heart: .

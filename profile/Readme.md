@@ -11,7 +11,7 @@
 </div>
 <br>
 
-<img title="" src="./logo.jpg" alt="./logo.jpg" data-align="center" width="181">
+<img title="" src="logo.jpg" alt="./logo.jpg" data-align="center" width="181">
 <br><br>
 
 Assalamu Alaikum Wa Rahmatullah :wave: . 

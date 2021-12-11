@@ -16,19 +16,17 @@ Welcome to the project of Crescent OS :kissing_heart: .
 
 # About
 
-**Crescent OS** ( or **Crescent Operating System** ) is a operating system based on **Linux kernel**.   
+**Crescent OS** ( or **Crescent Operating System** ) is a Muslim friendly operating system based on **Linux kernel**.   
 
 # Index
 
 - [Organisational ReadMe](https://github.com/CrescentOS-repo/.github)
 
-- [Project Plan](https://github.com/CrescentOS-repo/Plan)
+- [Project Roadmap](https://github.com/CrescentOS-repo/roadmap)
 
-- [Guideline](#)
+<!-- - [Package Repo](#) -->
 
-- [Softwares list in a repo](#)
-
-- [Wiki](#)
+<!-- - [Wiki](#) -->
 
 # Online Accounts
 

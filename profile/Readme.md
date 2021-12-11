@@ -24,7 +24,7 @@ Welcome to the project of Crescent OS :kissing_heart: .
 
 - [Project Roadmap](https://github.com/CrescentOS-repo/roadmap)
 
-- 
+- [Discussion Board](https://github.com/CrescentOS-repo/discussion-board)
 
 <!-- - [Package Repo](#) -->
 

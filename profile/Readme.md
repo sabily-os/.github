@@ -11,7 +11,7 @@
 </div>
 <br>
 
-![banner.](https://raw.githubusercontent.com/CrescentOS-repo/.github/master/profile/cos-banner.png)  
+![banner.png](https://raw.githubusercontent.com/CrescentOS-repo/.github/master/profile/cos-banner.png)  
 
 
 ### Assalamu Alaikum Wa Rahmatullah :wave: . 

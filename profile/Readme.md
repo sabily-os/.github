@@ -14,7 +14,7 @@
 ![banner.jpg](cos-banner.jpg)  
 
 
-Assalamu Alaikum Wa Rahmatullah :wave: . 
+### Assalamu Alaikum Wa Rahmatullah :wave: . 
 Welcome to the project of Crescent OS :kissing_heart: .
 
 # About

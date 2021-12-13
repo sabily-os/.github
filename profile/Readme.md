@@ -11,7 +11,7 @@
 </div>
 <br>
 
-![banner.jpg](cos-banner.)  
+![banner.jpg](cos-banner.png)  
 
 
 ### Assalamu Alaikum Wa Rahmatullah :wave: . 

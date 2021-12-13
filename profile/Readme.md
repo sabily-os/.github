@@ -14,8 +14,8 @@
 ![banner.png](https://raw.githubusercontent.com/CrescentOS-repo/.github/master/profile/cos-banner.png)  
 
 
-### Assalamu Alaikum Wa Rahmatullah :wave: . 
-## Welcome to the project of Crescent OS :kissing_heart: .
+## Assalamu Alaikum Wa Rahmatullah :wave: . 
+### Welcome to the project of Crescent OS :kissing_heart: .
 
 # About
 

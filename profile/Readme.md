@@ -1,6 +1,6 @@
 <div align=center>
     <b>
-        Bismillahir Rahmanir Rahim.
+        بسم الله الرحمن الرحيم
     </b>
 </div>
 <br>

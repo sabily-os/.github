@@ -9,14 +9,13 @@
 ![banner.png](https://raw.githubusercontent.com/CrescentOS-repo/.github/master/profile/cos-banner.png)  
 
 
-## Assalamu Alaikum Wa Rahmatullah :wave: . 
-### Welcome to the project of Crescent OS :kissing_heart: .
+Assalamu Alaikum Wa Rahmatullah :wave: . We're thrilled you're there. Welcome to the project of Crescent OS :kissing_heart: .
 
-# About
+# About this Project
 
 **Crescent OS** ( or **Crescent Operating System** ) is a Muslim friendly operating system based on **Linux kernel**.   
 
-# Index
+# Top repos
 
 - [Organisational ReadMe](https://github.com/CrescentOS-repo/.github)
 

@@ -4,11 +4,6 @@
     </b>
 </div>
 <br>
-<div align=center>
-    <h1>
-        OS Development Plan
-    </h1>
-</div>
 <br>
 
 ![banner.png](https://raw.githubusercontent.com/CrescentOS-repo/.github/master/profile/cos-banner.png)  

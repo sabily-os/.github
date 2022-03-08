@@ -31,7 +31,7 @@ Assalamu Alaikum Wa Rahmatullah :wave: . We're thrilled you're there. Welcome to
 
 <div align="center">
 
-  <a href="https://crescent-os.xyz/"><img src="https://img.shields.io/badge/Website-crescent-os.xyz-black?style=for-the-badge&logo=Workplace" height=25></a>
+  <a href="https://crescent-os.xyz/"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=Workplace" height=25></a>
 <!--   <a href="https://twitter.com/rafidalhaque"><img src="https://img.shields.io/badge/Twitter-@rafidalhaque-blue?style=for-the-badge&logo=twitter" height=25></a> -->
   <a href="https://t.me/crescent_os"><img src="https://img.shields.io/badge/Telegram-Crescent OS-blue?style=for-the-badge&logo=Telegram" height=25></a>
   <a href="mailto:crescentos_dev@protonmail.com"><img src="https://img.shields.io/badge/Email-crescentos_dev@protonmail.com-lightgrey?style=for-the-badge&logo=maildotru" height=25></a>

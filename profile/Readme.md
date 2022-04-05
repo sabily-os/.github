@@ -9,19 +9,19 @@
 ![banner.png](https://raw.githubusercontent.com/CrescentOS-repo/.github/master/profile/cos-banner.png)  
 
 
-Assalamu Alaikum Wa Rahmatullah :wave: . We're thrilled you're there. Welcome to the project of Crescent OS :kissing_heart: .
+Assalamu Alaikum Wa Rahmatullah :wave: . We're thrilled you're there. Welcome to the project of Sabily OS :kissing_heart: .
 
 # About this Project
 
-**Crescent OS** ( or **Crescent Operating System** ) is a Muslim friendly operating system based on **Linux kernel**.   
+**Sabily OS** is a Muslim friendly operating system based on **Linux kernel**.   
 
 # Top repos
 
-- [Organisational ReadMe](https://github.com/CrescentOS-repo/.github)
+- [Organisational ReadMe](https://github.com/sabily-os/.github)
 
-- [Project Roadmap](https://github.com/CrescentOS-repo/roadmap)
+- [Project Roadmap](https://github.com/sabily-os/roadmap)
 
-- [Discussion Board](https://github.com/CrescentOS-repo/discussion-board)
+- [Discussion Board](https://github.com/sabily-os/discussion-board)
 
 <!-- - [Package Repo](#) -->
 
@@ -32,7 +32,7 @@ Assalamu Alaikum Wa Rahmatullah :wave: . We're thrilled you're there. Welcome to
 <div align="center">
 
   <a href="https://crescent-os.xyz/"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=Workplace" height=25></a>
-  <a href="https://t.me/crescent_os"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" height=25></a>
+  <a href="https://t.me/sabily_os"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" height=25></a>
   <a href="mailto:contact@crescent-os.xyz"><img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=maildotru" height=25></a>
   <a href="https://join.slack.com/t/slack-vhl9697/shared_invite/zt-y2lna8fa-xKwSx64AFXD6uuc18nl0Ug"><img src="https://img.shields.io/badge/Slack%20Channel-4a154b?style=for-the-badge&logo=slack"></a>
   <a href="https://discord.gg/WgU5zqWy"><img src="https://img.shields.io/badge/Discord%20Server-5865f2?style=for-the-badge&logo=discord"></a>

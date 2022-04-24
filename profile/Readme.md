@@ -6,7 +6,7 @@
 <br>
 <br>
 
-![banner.png](https://raw.githubusercontent.com/CrescentOS-repo/.github/master/profile/cos-banner.png)  
+<!-- ![banner.png](https://raw.githubusercontent.com/CrescentOS-repo/.github/master/profile/cos-banner.png)   -->
 
 
 Assalamu Alaikum Wa Rahmatullah :wave: . We're thrilled you're there. Welcome to the project of Sabily OS :kissing_heart: .
@@ -19,7 +19,6 @@ Assalamu Alaikum Wa Rahmatullah :wave: . We're thrilled you're there. Welcome to
 
 - [Organisational ReadMe](https://github.com/sabily-os/.github)
 
-- [Project Roadmap](https://github.com/sabily-os/roadmap)
 
 - [Discussion Board](https://github.com/sabily-os/discussion-board)
 
